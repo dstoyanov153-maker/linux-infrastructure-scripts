@@ -34,7 +34,7 @@ if [ ! -d "$SOURCE_DIR" ]; then
 
 # ==============================================================================
 # DESCRIPTION: Automated Backup with Logging, Error Handling, and Rotation
-# AUTHOR: deko
+# AUTHOR: denis_stoyanov
 # ==============================================================================
 
 # --- 1. CONFIGURATION (Variables) ---
